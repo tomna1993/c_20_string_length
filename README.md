@@ -1,4 +1,4 @@
-<p>-----------
+<p>--
 In this code I implemented a way to find the length of a given string.
 I used a while loop to iterate thorugh the characters in the string array,
 and compared each character with the NULL character.
