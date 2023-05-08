@@ -7,13 +7,7 @@ The terminating character of a string is a NULL character.
 If the program reaches the NULL of the string it exits from the loop
 and prints out the count of the characters, excluded the NULL character.
 
-1. ljjfkdksaj
-2. fhjdksa
-3. fhdjksa
-	- fjdksjfklds
-	+ fjdkslfjklds
-		- fjdos
-
-- [x] #739
-
-- [ ] https://github.com/octo-org/octo-repo/issues/740
+| sojkfds | fjkds; | fjdksl; |
+|---------|--------|---------|
+| jfkdls  | fjdksl;| fdkls   |
+| fjdksljfidosjak | fjdksajfkdsakljfkldsajkl | fjdkslajfkdsjkfjdksajkfjds |
