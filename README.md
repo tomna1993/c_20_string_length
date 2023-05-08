@@ -1,7 +1,7 @@
-<h2>c_20_string_length</h2>
+## c_20_string_length
 
 <p>
-In this code I implemented a way to find the length of a given string.
+In *this* code I implemented a way to find the length of a given string.
 I used a while loop to iterate thorugh the characters in the string array,
 and compared each character with the NULL character.
 The terminating character of a string is a NULL character.
